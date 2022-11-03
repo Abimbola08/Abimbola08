@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I am Abimbola 👋
 
+I am a PhD student who like to code and who is passionate about developing new tools and learning new technologies. I had worked extensively in the Data space using tools like Power BI and Tableau. Currently I am working with Python and R. 
 
 **Abimbola08/Abimbola08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
